@@ -3,8 +3,8 @@
   "id": "chatway",
   "type": "mcp",
   "name": "Chatway Live Chat",
-  "tagline": "Manage customer conversations and support tickets with AI",
-  "description": "Connect Cline to Chatway, an AI-powered live chat and customer support platform. Search and summarize conversations, draft and send customer replies, add private notes, assign agents, manage support tickets, update contacts, and search your knowledge base. Connect securely through OAuth with permissions controlled by your Chatway workspace.",
+  "tagline": "Manage live chats, customer replies, and support tickets with AI",
+  "description": "Connect Cline to Chatway, an AI-powered live chat and customer support platform. Search and summarize customer conversations, draft and send replies, assign conversations to team members, add private notes, resolve support tickets, update contacts, and search your knowledge base. Connect securely using OAuth with workspace-controlled permissions. No API keys or local installation required.",
   "author": {
     "name": "Chatway",
     "url": "https://chatway.app"
